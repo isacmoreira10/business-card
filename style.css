@@ -24,6 +24,7 @@ body
 {
     background-image: url(https://images.unsplash.com/photo-1565898122623-be37b5f1e778?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80);
     background-position:center;
+    background-position:top;
 }
 
 .conteiner 
