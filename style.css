@@ -43,7 +43,8 @@ img
 h1
 p
 {
-    font-size:medium;
+    font-size:small;
+    color:black;
 }
 img.avatar
  {
@@ -56,7 +57,7 @@ img.avatar
 h1
  {
     
-    color: whitesmoke;
+    color: black;
     text-align: center;
     margin: auto;
     line-height: 50px;
